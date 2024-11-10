@@ -1,0 +1,7 @@
+como compilar el docker file
+
+docker build -t nombre:version .
+
+docker run -p 4000:3001 -d nombre:version
+
+
